@@ -15,7 +15,7 @@ Herbizarre
 Florizarre
 
 #org @NAME_CHARMANDER
-Salamèche
+Salam\eche
 
 #org @NAME_CHARMELEON
 Reptincel
@@ -24,55 +24,55 @@ Reptincel
 Dracaufeu
 
 #org @NAME_SQUIRTLE
-Squirtle
+Carapuce
 
 #org @NAME_WARTORTLE
-Wartortle
+Carabaffe
 
 #org @NAME_BLASTOISE
-Blastoise
+Tortank
 
 #org @NAME_CATERPIE
-Caterpie
+Chenipan
 
 #org @NAME_METAPOD
-Metapod
+Chrysacier
 
 #org @NAME_BUTTERFREE
-Butterfree
+Papilusion
 
 #org @NAME_WEEDLE
-Weedle
+Aspicot
 
 #org @NAME_KAKUNA
-Kakuna
+Coconfort
 
 #org @NAME_BEEDRILL
-Beedrill
+Dardargnan
 
 #org @NAME_PIDGEY
-Pidgey
+Roucool
 
 #org @NAME_PIDGEOTTO
-Pidgeotto
+Roucoups
 
 #org @NAME_PIDGEOT
-Pidgeot
+Roucarnage
 
 #org @NAME_RATTATA
 Rattata
 
 #org @NAME_RATICATE
-Raticate
+Rattatac
 
 #org @NAME_SPEAROW
-Spearow
+Piafabec
 
 #org @NAME_FEAROW
-Fearow
+Rapasdepic
 
 #org @NAME_EKANS
-Ekans
+Abo
 
 #org @NAME_ARBOK
 Arbok
@@ -84,10 +84,10 @@ Pikachu
 Raichu
 
 #org @NAME_SANDSHREW
-Sandshrew
+Sabelette
 
 #org @NAME_SANDSLASH
-Sandslash
+Sablaireau
 
 #org @NAME_NIDORANF
 Nidoran[B6]
@@ -108,37 +108,37 @@ Nidorino
 Nidoking
 
 #org @NAME_CLEFAIRY
-Clefairy
+M/elof/ee
 
 #org @NAME_CLEFABLE
-Clefable
+M/elodelfe
 
 #org @NAME_VULPIX
-Vulpix
+Goupix
 
 #org @NAME_NINETALES
-Ninetales
+Feunard
 
 #org @NAME_JIGGLYPUFF
-Jigglypuff
+Rondoudou
 
 #org @NAME_WIGGLYTUFF
-Wigglytuff
+Grodoudou
 
 #org @NAME_ZUBAT
-Zubat
+Nosferapti
 
 #org @NAME_GOLBAT
-Golbat
+Nosferalto
 
 #org @NAME_ODDISH
-Oddish
+Mystherbe
 
 #org @NAME_GLOOM
-Gloom
+Ortide
 
 #org @NAME_VILEPLUME
-Vileplume
+Raffl/esia
 
 #org @NAME_PARAS
 Paras
@@ -147,16 +147,16 @@ Paras
 Parasect
 
 #org @NAME_VENONAT
-Venonat
+Mimitoss
 
 #org @NAME_VENOMOTH
-Venomoth
+A/eromite
 
 #org @NAME_DIGLETT
-Diglett
+Triopikeur
 
 #org @NAME_DUGTRIO
-Dugtrio
+Miaouss
 
 #org @NAME_MEOWTH
 Meowth
@@ -165,31 +165,31 @@ Meowth
 Persian
 
 #org @NAME_PSYDUCK
-Psyduck
+Psykokwak
 
 #org @NAME_GOLDUCK
-Golduck
+Akwakwak
 
 #org @NAME_MANKEY
-Mankey
+F/erosinge
 
 #org @NAME_PRIMEAPE
-Primeape
+Colossinge
 
 #org @NAME_GROWLITHE
-Growlithe
+Caninos
 
 #org @NAME_ARCANINE
-Arcanine
+Arcanin
 
 #org @NAME_POLIWAG
-Poliwag
+Ptitard
 
 #org @NAME_POLIWHIRL
-Poliwhirl
+T<etarte
 
 #org @NAME_POLIWRATH
-Poliwrath
+Tartard
 
 #org @NAME_ABRA
 Abra
@@ -201,22 +201,22 @@ Kadabra
 Alakazam
 
 #org @NAME_MACHOP
-Machop
+Machoc
 
 #org @NAME_MACHOKE
-Machoke
+Machopeur
 
 #org @NAME_MACHAMP
-Machamp
+Mackogneur
 
 #org @NAME_BELLSPROUT
-Bellsprout
+Ch/etiflor
 
 #org @NAME_WEEPINBELL
-Weepinbell
+Boustiflor
 
 #org @NAME_VICTREEBEL
-Victreebel
+Tentacool
 
 #org @NAME_TENTACOOL
 Tentacool
@@ -225,34 +225,34 @@ Tentacool
 Tentacruel
 
 #org @NAME_GEODUDE
-Geodude
+Racaillou
 
 #org @NAME_GRAVELER
-Graveler
+Gravalanch
 
 #org @NAME_GOLEM
-Golem
+Grolem
 
 #org @NAME_PONYTA
 Ponyta
 
 #org @NAME_RAPIDASH
-Rapidash
+Galopa
 
 #org @NAME_SLOWPOKE
-Slowpoke
+Ramoloss
 
 #org @NAME_SLOWBRO
-Slowbro
+Flagadoss
 
 #org @NAME_MAGNEMITE
-Magnemite
+Magn/eti
 
 #org @NAME_MAGNETON
-Magneton
+Magn/eton
 
 #org @NAME_FARFETCHD
-Farfetch'd
+Canarticho
 
 #org @NAME_DODUO
 Doduo
@@ -261,166 +261,166 @@ Doduo
 Dodrio
 
 #org @NAME_SEEL
-Seel
+Otaria
 
 #org @NAME_DEWGONG
-Dewgong
+Lamantine
 
 #org @NAME_GRIMER
-Grimer
+Tadmorv
 
 #org @NAME_MUK
-Muk
+Grotadmorv
 
 #org @NAME_SHELLDER
-Shellder
+Kokiyas
 
 #org @NAME_CLOYSTER
-Cloyster
+Crustabri
 
 #org @NAME_GASTLY
-Gastly
+Fantominus
 
 #org @NAME_HAUNTER
-Haunter
+Spectrum
 
 #org @NAME_GENGAR
-Gengar
+Ectoplasma
 
 #org @NAME_ONIX
 Onix
 
 #org @NAME_DROWZEE
-Drowzee
+Soporifik
 
 #org @NAME_HYPNO
-Hypno
+Hypnomade
 
 #org @NAME_KRABBY
 Krabby
 
 #org @NAME_KINGLER
-Kingler
+Krabboss
 
 #org @NAME_VOLTORB
-Voltorb
+Voltorbe
 
 #org @NAME_ELECTRODE
-Electrode
+/Electrode
 
 #org @NAME_EXEGGCUTE
-Exeggcute
+Noeunoeuf
 
 #org @NAME_EXEGGUTOR
-Exeggutor
+Noadkoko
 
 #org @NAME_CUBONE
-Cubone
+Osselait
 
 #org @NAME_MAROWAK
-Marowak
+Ossatueur
 
 #org @NAME_HITMONLEE
-Hitmonlee
+Kicklee
 
 #org @NAME_HITMONCHAN
-Hitmonchan
+Tygnon
 
 #org @NAME_LICKITUNG
-Lickitung
+Excelangue
 
 #org @NAME_KOFFING
-Koffing
+Smogo
 
 #org @NAME_WEEZING
-Weezing
+Smogogo
 
 #org @NAME_RHYHORN
-Rhyhorn
+Rhinocorne
 
 #org @NAME_RHYDON
-Rhydon
+Rhinof/eros
 
 #org @NAME_CHANSEY
-Chansey
+Leveinard
 
 #org @NAME_TANGELA
-Tangela
+Saquedeneu
 
 #org @NAME_KANGASKHAN
-Kangaskhan
+Kangourex
 
 #org @NAME_HORSEA
-Horsea
+Hypotrempe
 
 #org @NAME_SEADRA
-Seadra
+Hypoc/ean
 
 #org @NAME_GOLDEEN
-Goldeen
+Poissir\ene
 
 #org @NAME_SEAKING
-Seaking
+Poissoroy
 
 #org @NAME_STARYU
-Staryu
+Stari
 
 #org @NAME_STARMIE
-Starmie
+Staross
 
 #org @NAME_MR_MIME
-Mr. Mime
+M.Mime
 
 #org @NAME_SCYTHER
-Scyther
+Ins/ecateur
 
 #org @NAME_JYNX
-Jynx
+Lippoutou
 
 #org @NAME_ELECTABUZZ
-Electabuzz
+/elektek
 
 #org @NAME_MAGMAR
 Magmar
 
 #org @NAME_PINSIR
-Pinsir
+Scarabrute
 
 #org @NAME_TAUROS
 Tauros
 
 #org @NAME_MAGIKARP
-Magikarp
+Magicarpe
 
 #org @NAME_GYARADOS
-Gyarados
+L/eviator
 
 #org @NAME_LAPRAS
-Lapras
+Lokhlass
 
 #org @NAME_DITTO
-Ditto
+M/etamorph
 
 #org @NAME_EEVEE
-Eevee
+/evoli
 
 #org @NAME_VAPOREON
-Vaporeon
+Aquali
 
 #org @NAME_JOLTEON
-Jolteon
+Voltali
 
 #org @NAME_FLAREON
-Flareon
+Pyroli
 
 #org @NAME_PORYGON
 Porygon
 
 #org @NAME_OMANYTE
-Omanyte
+Amonita
 
 #org @NAME_OMASTAR
-Omastar
+Amonistar
 
 #org @NAME_KABUTO
 Kabuto
@@ -429,28 +429,28 @@ Kabuto
 Kabutops
 
 #org @NAME_AERODACTYL
-Aerodactyl
+Pt/era
 
 #org @NAME_SNORLAX
-Snorlax
+Ronflex
 
 #org @NAME_ARTICUNO
-Articuno
+Artikodin
 
 #org @NAME_ZAPDOS
-Zapdos
+/electhor
 
 #org @NAME_MOLTRES
-Moltres
+Sulfura
 
 #org @NAME_DRATINI
-Dratini
+Minidraco
 
 #org @NAME_DRAGONAIR
-Dragonair
+Draco
 
 #org @NAME_DRAGONITE
-Dragonite
+Dracolosse
 
 #org @NAME_MEWTWO
 Mewtwo
