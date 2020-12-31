@@ -1097,7 +1097,7 @@ extern const u8 DEX_ENTRY_DODUO[];
 extern const u8 DEX_ENTRY_DODRIO[];
 extern const u8 DEX_ENTRY_SEEL[];
 extern const u8 DEX_ENTRY_DEWGONG[];
-extern const u8 DEX_ENTRY_DEWGONG[];
+extern const u8 DEX_ENTRY_GRIMER
 extern const u8 DEX_ENTRY_MUK[];
 extern const u8 DEX_ENTRY_SHELLDER[];
 extern const u8 DEX_ENTRY_CLOYSTER[];
