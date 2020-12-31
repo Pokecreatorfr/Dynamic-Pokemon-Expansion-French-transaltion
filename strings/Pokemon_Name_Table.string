@@ -834,61 +834,61 @@ Celebi
 ?
 
 #org @NAME_TREECKO
-Treecko
+Arcko
 
 #org @NAME_GROVYLE
-Grovyle
+Massko
 
 #org @NAME_SCEPTILE
-Sceptile
+Jungko
 
 #org @NAME_TORCHIC
-Torchic
+Poussifeu
 
 #org @NAME_COMBUSKEN
-Combusken
+Galifeu
 
 #org @NAME_BLAZIKEN
-Blaziken
+Bras/egali
 
 #org @NAME_MUDKIP
-Mudkip
+Gobou
 
 #org @NAME_MARSHTOMP
-Marshtomp
+Flobio
 
 #org @NAME_SWAMPERT
-Swampert
+Laggron
 
 #org @NAME_POOCHYENA
-Poochyena
+Medhy\ena
 
 #org @NAME_MIGHTYENA
-Mightyena
+Grahy\ena
 
 #org @NAME_ZIGZAGOON
-Zigzagoon
+Zigzaton
 
 #org @NAME_LINOONE
-Linoone
+Lin/eon
 
 #org @NAME_WURMPLE
-Wurmple
+Chenipotte
 
 #org @NAME_SILCOON
-Silcoon
+Armulys
 
 #org @NAME_BEAUTIFLY
-Beautifly
+Charmillon
 
 #org @NAME_CASCOON
-Cascoon
+Blindalys
 
 #org @NAME_DUSTOX
-Dustox
+Papinox
 
 #org @NAME_LOTAD
-Lotad
+N/enupiot
 
 #org @NAME_LOMBRE
 Lombre
@@ -897,289 +897,28 @@ Lombre
 Ludicolo
 
 #org @NAME_SEEDOT
-Seedot
+Grainipiot
 
 #org @NAME_NUZLEAF
-Nuzleaf
+Pifeuil
 
 #org @NAME_SHIFTRY
-Shiftry
-
-#org @NAME_NINCADA
-Nincada
-
-#org @NAME_NINJASK
-Ninjask
-
-#org @NAME_SHEDINJA
-Shedinja
+Tengalice
 
 #org @NAME_TAILLOW
-Taillow
+Nirondelle
 
 #org @NAME_SWELLOW
-Swellow
-
-#org @NAME_SHROOMISH
-Shroomish
-
-#org @NAME_BRELOOM
-Breloom
-
-#org @NAME_SPINDA
-Spinda
+H/el/edelle
 
 #org @NAME_WINGULL
-Wingull
+Go/elise
 
 #org @NAME_PELIPPER
-Pelipper
-
-#org @NAME_SURSKIT
-Surskit
-
-#org @NAME_MASQUERAIN
-Masquerain
-
-#org @NAME_WAILMER
-Wailmer
-
-#org @NAME_WAILORD
-Wailord
-
-#org @NAME_SKITTY
-Skitty
-
-#org @NAME_DELCATTY
-Delcatty
-
-#org @NAME_KECLEON
-Kecleon
-
-#org @NAME_BALTOY
-Baltoy
-
-#org @NAME_CLAYDOL
-Claydol
-
-#org @NAME_NOSEPASS
-Nosepass
-
-#org @NAME_TORKOAL
-Torkoal
-
-#org @NAME_SABLEYE
-Sableye
-
-#org @NAME_BARBOACH
-Barboach
-
-#org @NAME_WHISCASH
-Whiscash
-
-#org @NAME_LUVDISC
-Luvdisc
-
-#org @NAME_CORPHISH
-Corphish
-
-#org @NAME_CRAWDAUNT
-Crawdaunt
-
-#org @NAME_FEEBAS
-Feebas
-
-#org @NAME_MILOTIC
-Milotic
-
-#org @NAME_CARVANHA
-Carvanha
-
-#org @NAME_SHARPEDO
-Sharpedo
-
-#org @NAME_TRAPINCH
-Trapinch
-
-#org @NAME_VIBRAVA
-Vibrava
-
-#org @NAME_FLYGON
-Flygon
-
-#org @NAME_MAKUHITA
-Makuhita
-
-#org @NAME_HARIYAMA
-Hariyama
-
-#org @NAME_ELECTRIKE
-Electrike
-
-#org @NAME_MANECTRIC
-Manectric
-
-#org @NAME_NUMEL
-Numel
-
-#org @NAME_CAMERUPT
-Camerupt
-
-#org @NAME_SPHEAL
-Spheal
-
-#org @NAME_SEALEO
-Sealeo
-
-#org @NAME_WALREIN
-Walrein
-
-#org @NAME_CACNEA
-Cacnea
-
-#org @NAME_CACTURNE
-Cacturne
-
-#org @NAME_SNORUNT
-Snorunt
-
-#org @NAME_GLALIE
-Glalie
-
-#org @NAME_LUNATONE
-Lunatone
-
-#org @NAME_SOLROCK
-Solrock
-
-#org @NAME_AZURILL
-Azurill
-
-#org @NAME_SPOINK
-Spoink
-
-#org @NAME_GRUMPIG
-Grumpig
-
-#org @NAME_PLUSLE
-Plusle
-
-#org @NAME_MINUN
-Minun
-
-#org @NAME_MAWILE
-Mawile
-
-#org @NAME_MEDITITE
-Meditite
-
-#org @NAME_MEDICHAM
-Medicham
-
-#org @NAME_SWABLU
-Swablu
-
-#org @NAME_ALTARIA
-Altaria
-
-#org @NAME_WYNAUT
-Wynaut
-
-#org @NAME_DUSKULL
-Duskull
-
-#org @NAME_DUSCLOPS
-Dusclops
-
-#org @NAME_ROSELIA
-Roselia
-
-#org @NAME_SLAKOTH
-Slakoth
-
-#org @NAME_VIGOROTH
-Vigoroth
-
-#org @NAME_SLAKING
-Slaking
-
-#org @NAME_GULPIN
-Gulpin
-
-#org @NAME_SWALOT
-Swalot
-
-#org @NAME_TROPIUS
-Tropius
-
-#org @NAME_WHISMUR
-Whismur
-
-#org @NAME_LOUDRED
-Loudred
-
-#org @NAME_EXPLOUD
-Exploud
-
-#org @NAME_CLAMPERL
-Clamperl
-
-#org @NAME_HUNTAIL
-Huntail
-
-#org @NAME_GOREBYSS
-Gorebyss
-
-#org @NAME_ABSOL
-Absol
-
-#org @NAME_SHUPPET
-Shuppet
-
-#org @NAME_BANETTE
-Banette
-
-#org @NAME_SEVIPER
-Seviper
-
-#org @NAME_ZANGOOSE
-Zangoose
-
-#org @NAME_RELICANTH
-Relicanth
-
-#org @NAME_ARON
-Aron
-
-#org @NAME_LAIRON
-Lairon
-
-#org @NAME_AGGRON
-Aggron
-
-#org @NAME_CASTFORM
-Castform
-
-#org @NAME_VOLBEAT
-Volbeat
-
-#org @NAME_ILLUMISE
-Illumise
-
-#org @NAME_LILEEP
-Lileep
-
-#org @NAME_CRADILY
-Cradily
-
-#org @NAME_ANORITH
-Anorith
-
-#org @NAME_ARMALDO
-Armaldo
+Bekipan
 
 #org @NAME_RALTS
-Ralts
+Tarsal
 
 #org @NAME_KIRLIA
 Kirlia
@@ -1187,23 +926,287 @@ Kirlia
 #org @NAME_GARDEVOIR
 Gardevoir
 
+#org @NAME_SURSKIT
+Arakdo
+
+#org @NAME_MASQUERAIN
+Maskadra
+
+#org @NAME_SHROOMISH
+Balignon
+
+#org @NAME_BRELOOM
+Chapignon
+
+#org @NAME_SLAKOTH
+Par/ecool
+
+#org @NAME_VIGOROTH
+Vigoroth
+
+#org @NAME_SLAKING
+Monafl\emit
+
+#org @NAME_NINCADA
+Ningale
+
+#org @NAME_NINJASK
+Ninjask
+
+#org @NAME_SHEDINJA
+Munja
+
+#org @NAME_WHISMUR
+Chuchmur
+
+#org @NAME_LOUDRED
+Ramboum
+
+#org @NAME_EXPLOUD
+Brouhabam
+
+#org @NAME_MAKUHITA
+Makuhita
+
+#org @NAME_HARIYAMA
+Hariyama
+
+#org @NAME_AZURILL
+Azurill
+
+#org @NAME_NOSEPASS
+Tarinor
+
+#org @NAME_SKITTY
+Skitty
+
+#org @NAME_DELCATTY
+Delcatty
+
+#org @NAME_SABLEYE
+T/en/efix
+
+#org @NAME_MAWILE
+Mysdibule
+
+#org @NAME_ARON
+Galekid
+
+#org @NAME_LAIRON
+Galegon
+
+#org @NAME_AGGRON
+Galeking
+
+#org @NAME_MEDITITE
+M/editikka
+
+#org @NAME_MEDICHAM
+Charmina
+
+#org @NAME_ELECTRIKE
+Dynavolt
+
+#org @NAME_MANECTRIC
+/Elecsprint
+
+#org @NAME_PLUSLE
+Posipi
+
+#org @NAME_MINUN
+N/egapi
+
+#org @NAME_VOLBEAT
+Muciole
+
+#org @NAME_ILLUMISE
+Lumivole
+
+#org @NAME_ROSELIA
+Ros/elia
+
+#org @NAME_GULPIN
+Gloupti
+
+#org @NAME_SWALOT
+Avaltout
+
+#org @NAME_CARVANHA
+Carvanha
+
+#org @NAME_SHARPEDO
+Sharpedo
+
+#org @NAME_WAILMER
+Wailmer
+
+#org @NAME_WAILORD
+Wailord
+
+#org @NAME_NUMEL
+Chamallot
+
+#org @NAME_CAMERUPT
+Cam/erupt
+
+#org @NAME_TORKOAL
+Chartor
+
+#org @NAME_SPOINK
+Spoink
+
+#org @NAME_GRUMPIG
+Groret
+
+#org @NAME_SPINDA
+Spinda
+
+#org @NAME_TRAPINCH
+Kraknoix
+
+#org @NAME_VIBRAVA
+Vibraninf
+
+#org @NAME_FLYGON
+Lib/egon
+
+#org @NAME_CACNEA
+Cacnea
+
+#org @NAME_CACTURNE
+Cacturne
+
+#org @NAME_SWABLU
+Tylton
+
+#org @NAME_ALTARIA
+Altaria
+
+#org @NAME_ZANGOOSE
+Mangriff
+
+#org @NAME_SEVIPER
+Seviper
+
+#org @NAME_LUNATONE
+S/el/eroc
+
+#org @NAME_SOLROCK
+Solaroc
+
+#org @NAME_BARBOACH
+Barloche
+
+#org @NAME_WHISCASH
+Barbicha
+
+#org @NAME_CORPHISH
+/Ecrapince
+
+#org @NAME_CRAWDAUNT
+Colhomard
+
+#org @NAME_BALTOY
+Balbuto
+
+#org @NAME_CLAYDOL
+Kaorine
+
+#org @NAME_LILEEP
+Lilia
+
+#org @NAME_CRADILY
+Vacilys
+
+#org @NAME_ANORITH
+Anorith
+
+#org @NAME_ARMALDO
+Armaldo
+
+#org @NAME_FEEBAS
+Barpau
+
+#org @NAME_MILOTIC
+Milobellus
+
+#org @NAME_CASTFORM
+Morph/eo
+
+#org @NAME_KECLEON
+Kecleon
+
+#org @NAME_SHUPPET
+Polichombr
+
+#org @NAME_BANETTE
+Branette
+
+#org @NAME_DUSKULL
+Skel/enox
+
+#org @NAME_DUSCLOPS
+T/eraclope
+
+#org @NAME_TROPIUS
+Tropius
+
+#org @NAME_CHIMECHO
+/Eoko
+
+#org @NAME_ABSOL
+Absol
+
+#org @NAME_WYNAUT
+Ok/eok/e
+
+#org @NAME_SNORUNT
+Stalgamin
+
+#org @NAME_GLALIE
+Oniglali
+
+#org @NAME_SPHEAL
+Obalie
+
+#org @NAME_SEALEO
+Phogleur
+
+#org @NAME_WALREIN
+Kaimorse
+
+#org @NAME_CLAMPERL
+Coquiperl
+
+#org @NAME_HUNTAIL
+Serpang
+
+#org @NAME_GOREBYSS
+Rosabyss
+
+#org @NAME_RELICANTH
+Relicanth
+
+#org @NAME_LUVDISC
+Lovdisc
+
 #org @NAME_BAGON
-Bagon
+Draby
 
 #org @NAME_SHELGON
-Shelgon
+Drackhaus
 
 #org @NAME_SALAMENCE
-Salamence
+Drattak
 
 #org @NAME_BELDUM
-Beldum
+Terhal
 
 #org @NAME_METANG
-Metang
+M/etang
 
 #org @NAME_METAGROSS
-Metagross
+M/etalosse
 
 #org @NAME_REGIROCK
 Regirock
@@ -1214,6 +1217,12 @@ Regice
 #org @NAME_REGISTEEL
 Registeel
 
+#org @NAME_LATIAS
+Latias
+
+#org @NAME_LATIOS
+Latios
+
 #org @NAME_KYOGRE
 Kyogre
 
@@ -1223,20 +1232,11 @@ Groudon
 #org @NAME_RAYQUAZA
 Rayquaza
 
-#org @NAME_LATIAS
-Latias
-
-#org @NAME_LATIOS
-Latios
-
 #org @NAME_JIRACHI
 Jirachi
 
 #org @NAME_DEOXYS
 Deoxys
-
-#org @NAME_CHIMECHO
-Chimecho
 
 #org @NAME_BAD_EGG
 Bad Egg
