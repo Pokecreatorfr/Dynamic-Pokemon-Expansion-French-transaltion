@@ -1097,7 +1097,7 @@ extern const u8 DEX_ENTRY_DODUO[];
 extern const u8 DEX_ENTRY_DODRIO[];
 extern const u8 DEX_ENTRY_SEEL[];
 extern const u8 DEX_ENTRY_DEWGONG[];
-extern const u8 DEX_ENTRY_GRIMER
+extern const u8 DEX_ENTRY_GRIMER[];
 extern const u8 DEX_ENTRY_MUK[];
 extern const u8 DEX_ENTRY_SHELLDER[];
 extern const u8 DEX_ENTRY_CLOYSTER[];
@@ -1362,7 +1362,7 @@ extern const u8 DEX_ENTRY_HUNTAIL[];
 extern const u8 DEX_ENTRY_GOREBYSS[];
 extern const u8 DEX_ENTRY_ABSOL[];
 extern const u8 DEX_ENTRY_SHUPPET[];
-extern const u8 DEX_ENTRY_BANETTEv
+extern const u8 DEX_ENTRY_BANETTE[];
 extern const u8 DEX_ENTRY_SEVIPER[];
 extern const u8 DEX_ENTRY_ZANGOOSE[];
 extern const u8 DEX_ENTRY_RELICANTH[];
