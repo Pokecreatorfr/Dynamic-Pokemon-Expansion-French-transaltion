@@ -15,7 +15,7 @@ Herbizarre
 Florizarre
 
 #org @NAME_CHARMANDER
-Salam\eche
+Salam\rche
 
 #org @NAME_CHARMELEON
 Reptincel
@@ -108,10 +108,10 @@ Nidorino
 Nidoking
 
 #org @NAME_CLEFAIRY
-M/elof/ee
+M\elof\ee
 
 #org @NAME_CLEFABLE
-M/elodelfe
+M\elodelfe
 
 #org @NAME_VULPIX
 Goupix
@@ -138,7 +138,7 @@ Mystherbe
 Ortide
 
 #org @NAME_VILEPLUME
-Raffl/esia
+Raffl\esia
 
 #org @NAME_PARAS
 Paras
@@ -150,7 +150,7 @@ Parasect
 Mimitoss
 
 #org @NAME_VENOMOTH
-A/eromite
+A\eromite
 
 #org @NAME_DIGLETT
 Triopikeur
@@ -171,7 +171,7 @@ Psykokwak
 Akwakwak
 
 #org @NAME_MANKEY
-F/erosinge
+F\erosinge
 
 #org @NAME_PRIMEAPE
 Colossinge
@@ -186,7 +186,7 @@ Arcanin
 Ptitard
 
 #org @NAME_POLIWHIRL
-T<etarte
+T\ttarte
 
 #org @NAME_POLIWRATH
 Tartard
@@ -210,7 +210,7 @@ Machopeur
 Mackogneur
 
 #org @NAME_BELLSPROUT
-Ch/etiflor
+Ch\etiflor
 
 #org @NAME_WEEPINBELL
 Boustiflor
@@ -246,10 +246,10 @@ Ramoloss
 Flagadoss
 
 #org @NAME_MAGNEMITE
-Magn/eti
+Magn\eti
 
 #org @NAME_MAGNETON
-Magn/eton
+Magn\eton
 
 #org @NAME_FARFETCHD
 Canarticho
@@ -306,10 +306,10 @@ Krabboss
 Voltorbe
 
 #org @NAME_ELECTRODE
-/Electrode
+\Electrode
 
 #org @NAME_EXEGGCUTE
-Noeunoeuf
+N\iun\iuf
 
 #org @NAME_EXEGGUTOR
 Noadkoko
@@ -339,7 +339,7 @@ Smogogo
 Rhinocorne
 
 #org @NAME_RHYDON
-Rhinof/eros
+Rhinof\eros
 
 #org @NAME_CHANSEY
 Leveinard
@@ -354,10 +354,10 @@ Kangourex
 Hypotrempe
 
 #org @NAME_SEADRA
-Hypoc/ean
+Hypoc\ean
 
 #org @NAME_GOLDEEN
-Poissir\ene
+Poissir\rne
 
 #org @NAME_SEAKING
 Poissoroy
@@ -372,13 +372,13 @@ Staross
 M.Mime
 
 #org @NAME_SCYTHER
-Ins/ecateur
+Ins\ecateur
 
 #org @NAME_JYNX
 Lippoutou
 
 #org @NAME_ELECTABUZZ
-/Elektek
+\Elektek
 
 #org @NAME_MAGMAR
 Magmar
@@ -393,16 +393,16 @@ Tauros
 Magicarpe
 
 #org @NAME_GYARADOS
-L/eviator
+L\eviator
 
 #org @NAME_LAPRAS
 Lokhlass
 
 #org @NAME_DITTO
-M/etamorph
+M\etamorph
 
 #org @NAME_EEVEE
-/evoli
+\evoli
 
 #org @NAME_VAPOREON
 Aquali
@@ -429,7 +429,7 @@ Kabuto
 Kabutops
 
 #org @NAME_AERODACTYL
-Pt/era
+Pt\era
 
 #org @NAME_SNORLAX
 Ronflex
@@ -438,7 +438,7 @@ Ronflex
 Artikodin
 
 #org @NAME_ZAPDOS
-/Electhor
+\Electhor
 
 #org @NAME_MOLTRES
 Sulfura
@@ -465,10 +465,10 @@ Germignon
 Macronium
 
 #org @NAME_MEGANIUM
-M/eganium
+M\eganium
 
 #org @NAME_CYNDAQUIL
-H/ericendre
+H\ericendre
 
 #org @NAME_QUILAVA
 Feurisson
@@ -522,7 +522,7 @@ Lanturn
 Pichu
 
 #org @NAME_CLEFFA
-M/elo
+M\elo
 
 #org @NAME_IGGLYBUFF
 Toudoudou
@@ -579,7 +579,7 @@ Capumain
 Tournegrin
 
 #org @NAME_SUNFLORA
-H/eliatronc
+H\eliatronc
 
 #org @NAME_YANMA
 Yanma
@@ -597,19 +597,19 @@ Mentali
 Noctali
 
 #org @NAME_MURKROW
-Corn\ebre
+Corn\rbre
 
 #org @NAME_SLOWKING
 Roigada
 
 #org @NAME_MISDREAVUS
-Feufor<eve
+Feufor\tve
 
 #org @NAME_UNOWN
 Zarbi
 
 #org @NAME_WOBBUFFET
-Qulbutok/e
+Qulbutok\e
 
 #org @NAME_GIRAFARIG
 Girafarig
@@ -681,7 +681,7 @@ Octillery
 Cadoizo
 
 #org @NAME_MANTINE
-D/emanta
+D\emanta
 
 #org @NAME_SKARMORY
 Airmure
@@ -690,7 +690,7 @@ Airmure
 Malosse
 
 #org @NAME_HOUNDOOM
-D/emolosse
+D\emolosse
 
 #org @NAME_KINGDRA
 Hyporoi
@@ -714,19 +714,19 @@ Queulorior
 Debugant
 
 #org @NAME_HITMONTOP
-Kapoera
+Kap\ira
 
 #org @NAME_SMOOCHUM
 Lippouti
 
 #org @NAME_ELEKID
-/elekid
+\elekid
 
 #org @NAME_MAGBY
 Magby
 
 #org @NAME_MILTANK
-/ecr/emeuh
+\ecr\emeuh
 
 #org @NAME_BLISSEY
 Leuphorie
@@ -849,7 +849,7 @@ Poussifeu
 Galifeu
 
 #org @NAME_BLAZIKEN
-Bras/egali
+Bras\egali
 
 #org @NAME_MUDKIP
 Gobou
@@ -861,16 +861,16 @@ Flobio
 Laggron
 
 #org @NAME_POOCHYENA
-Medhy\ena
+Medhy\rna
 
 #org @NAME_MIGHTYENA
-Grahy\ena
+Grahy\rna
 
 #org @NAME_ZIGZAGOON
 Zigzaton
 
 #org @NAME_LINOONE
-Lin/eon
+Lin\eon
 
 #org @NAME_WURMPLE
 Chenipotte
@@ -888,7 +888,7 @@ Blindalys
 Papinox
 
 #org @NAME_LOTAD
-N/enupiot
+N\enupiot
 
 #org @NAME_LOMBRE
 Lombre
@@ -909,10 +909,10 @@ Tengalice
 Nirondelle
 
 #org @NAME_SWELLOW
-H/el/edelle
+H\el\edelle
 
 #org @NAME_WINGULL
-Go/elise
+Go\elise
 
 #org @NAME_PELIPPER
 Bekipan
@@ -939,13 +939,13 @@ Balignon
 Chapignon
 
 #org @NAME_SLAKOTH
-Par/ecool
+Par\ecool
 
 #org @NAME_VIGOROTH
 Vigoroth
 
 #org @NAME_SLAKING
-Monafl\emit
+Monafl\rmit
 
 #org @NAME_NINCADA
 Ningale
@@ -984,7 +984,7 @@ Skitty
 Delcatty
 
 #org @NAME_SABLEYE
-T/en/efix
+T\en\efix
 
 #org @NAME_MAWILE
 Mysdibule
@@ -999,7 +999,7 @@ Galegon
 Galeking
 
 #org @NAME_MEDITITE
-M/editikka
+M\editikka
 
 #org @NAME_MEDICHAM
 Charmina
@@ -1008,13 +1008,13 @@ Charmina
 Dynavolt
 
 #org @NAME_MANECTRIC
-/Elecsprint
+\Elecsprint
 
 #org @NAME_PLUSLE
 Posipi
 
 #org @NAME_MINUN
-N/egapi
+N\egapi
 
 #org @NAME_VOLBEAT
 Muciole
@@ -1023,7 +1023,7 @@ Muciole
 Lumivole
 
 #org @NAME_ROSELIA
-Ros/elia
+Ros\elia
 
 #org @NAME_GULPIN
 Gloupti
@@ -1047,7 +1047,7 @@ Wailord
 Chamallot
 
 #org @NAME_CAMERUPT
-Cam/erupt
+Cam\erupt
 
 #org @NAME_TORKOAL
 Chartor
@@ -1068,7 +1068,7 @@ Kraknoix
 Vibraninf
 
 #org @NAME_FLYGON
-Lib/egon
+Lib\egon
 
 #org @NAME_CACNEA
 Cacnea
@@ -1089,7 +1089,7 @@ Mangriff
 Seviper
 
 #org @NAME_LUNATONE
-S/el/eroc
+S\el\eroc
 
 #org @NAME_SOLROCK
 Solaroc
@@ -1101,7 +1101,7 @@ Barloche
 Barbicha
 
 #org @NAME_CORPHISH
-/Ecrapince
+\Ecrapince
 
 #org @NAME_CRAWDAUNT
 Colhomard
@@ -1131,7 +1131,7 @@ Barpau
 Milobellus
 
 #org @NAME_CASTFORM
-Morph/eo
+Morph\eo
 
 #org @NAME_KECLEON
 Kecleon
@@ -1143,22 +1143,22 @@ Polichombr
 Branette
 
 #org @NAME_DUSKULL
-Skel/enox
+Skel\enox
 
 #org @NAME_DUSCLOPS
-T/eraclope
+T\eraclope
 
 #org @NAME_TROPIUS
 Tropius
 
 #org @NAME_CHIMECHO
-/Eoko
+\Eoko
 
 #org @NAME_ABSOL
 Absol
 
 #org @NAME_WYNAUT
-Ok/eok/e
+Ok\eok\e
 
 #org @NAME_SNORUNT
 Stalgamin
@@ -1203,10 +1203,10 @@ Drattak
 Terhal
 
 #org @NAME_METANG
-M/etang
+M\etang
 
 #org @NAME_METAGROSS
-M/etalosse
+M\etalosse
 
 #org @NAME_REGIROCK
 Regirock
@@ -1347,16 +1347,16 @@ Tiplouf
 Prinplouf
 
 #org @NAME_EMPOLEON
-Pingol/eon
+Pingol\eon
 
 #org @NAME_STARLY
-/Etourmi
+\Etourmi
 
 #org @NAME_STARAVIA
-/Etourvol
+\Etourvol
 
 #org @NAME_STARAPTOR
-/Etouraptor
+\Etouraptor
 
 #org @NAME_BIDOOF
 Keunotor
@@ -1368,7 +1368,7 @@ Castorno
 Crikzik
 
 #org @NAME_KRICKETUNE
-M/elokrik
+M\elokrik
 
 #org @NAME_SHINX
 Lixy
@@ -1416,10 +1416,10 @@ Apireine
 Pachirisu
 
 #org @NAME_BUIZEL
-Must/ebou/ee
+Must\ebou\ee
 
 #org @NAME_FLOATZEL
-Must/eflott
+Must\eflott
 
 #org @NAME_CHERUBI
 Ceribou
@@ -1449,7 +1449,7 @@ Laporeille
 Lockpin
 
 #org @NAME_MISMAGIUS
-Magir<eve
+Magir\tve
 
 #org @NAME_HONCHKROW
 Corboss
@@ -1470,13 +1470,13 @@ Moufouette
 Moufflair
 
 #org @NAME_BRONZOR
-Arch/eomire
+Arch\eomire
 
 #org @NAME_BRONZONG
-Arch/eodong
+Arch\eodong
 
 #org @NAME_BONSLY
-Manza:i
+Manza\u
 
 #org @NAME_MIME_JR
 Mime Jr.
@@ -1530,10 +1530,10 @@ Coatox
 Vortente
 
 #org @NAME_FINNEON
-/Ecayon
+\Ecayon
 
 #org @NAME_LUMINEON
-Lumin/eon
+Lumin\eon
 
 #org @NAME_MANTYKE
 Babimanta
@@ -1548,7 +1548,7 @@ Blizzaroi
 Dimoret
 
 #org @NAME_MAGNEZONE
-Magn/ezone
+Magn\ezone
 
 #org @NAME_LICKILICKY
 Coudlangue
@@ -1560,7 +1560,7 @@ Rhinastoc
 Bouldeneu
 
 #org @NAME_ELECTIVIRE
-/Elekable
+\Elekable
 
 #org @NAME_MAGMORTAR
 Maganon
@@ -1602,13 +1602,13 @@ Momartik
 Motisma
 
 #org @NAME_UXIE
-Cr/ehelf
+Cr\ehelf
 
 #org @NAME_MESPRIT
-Cr/efollet
+Cr\efollet
 
 #org @NAME_AZELF
-Cr/efadet
+Cr\efadet
 
 #org @NAME_DIALGA
 Dialga
@@ -1647,229 +1647,229 @@ Arceus
 Victini
 
 #org @NAME_SNIVY
-Snivy
+Vip\elierre
 
 #org @NAME_SERVINE
-Servine
+Lianaja
 
 #org @NAME_SERPERIOR
-Serperior
+Majaspic
 
 #org @NAME_TEPIG
-Tepig
+Gruikui
 
 #org @NAME_PIGNITE
-Pignite
+Grotichon
 
 #org @NAME_EMBOAR
-Emboar
+Roitiflam
 
 #org @NAME_OSHAWOTT
-Oshawott
+Moustillon
 
 #org @NAME_DEWOTT
-Dewott
+Mateloutre
 
 #org @NAME_SAMUROTT
-Samurott
+Clamiral
 
 #org @NAME_PATRAT
-Patrat
+Ratentif
 
 #org @NAME_WATCHOG
-Watchog
+Miradar
 
 #org @NAME_LILLIPUP
-Lillipup
+Ponchiot
 
 #org @NAME_HERDIER
-Herdier
+Ponchien
 
 #org @NAME_STOUTLAND
-Stoutland
+Mastouffe
 
 #org @NAME_PURRLOIN
-Purrloin
+Chacripan
 
 #org @NAME_LIEPARD
-Liepard
+L\eopardus
 
 #org @NAME_PANSAGE
-Pansage
+Feuillajou
 
 #org @NAME_SIMISAGE
-Simisage
+Feuiloutan
 
 #org @NAME_PANSEAR
-Pansear
+Flamajou
 
 #org @NAME_SIMISEAR
-Simisear
+Flamoutan
 
 #org @NAME_PANPOUR
-Panpour
+Flotajou
 
 #org @NAME_SIMIPOUR
-Simipour
+Flotoutan
 
 #org @NAME_MUNNA
 Munna
 
 #org @NAME_MUSHARNA
-Musharna
+Mushana
 
 #org @NAME_PIDOVE
-Pidove
+Poichigeon
 
 #org @NAME_TRANQUILL
-Tranquill
+Colombeau
 
 #org @NAME_UNFEZANT
-Unfezant
+D\eflaisan
 
 #org @NAME_BLITZLE
-Blitzle
+Z\ebibron
 
 #org @NAME_ZEBSTRIKA
-Zebstrika
+Z\eblitz
 
 #org @NAME_ROGGENROLA
-Roggenrola
+Nodulithe
 
 #org @NAME_BOLDORE
-Boldore
+G\eolithe
 
 #org @NAME_GIGALITH
-Gigalith
+Gigalithe
 
 #org @NAME_WOOBAT
-Woobat
+Chovsourir
 
 #org @NAME_SWOOBAT
-Swoobat
+Rhinolove
 
 #org @NAME_DRILBUR
-Drilbur
+Rototaupe
 
 #org @NAME_EXCADRILL
-Excadrill
+Minotaupe
 
 #org @NAME_AUDINO
-Audino
+Nanm\eou\ue
 
 #org @NAME_TIMBURR
-Timburr
+Charpenti
 
 #org @NAME_GURDURR
-Gurdurr
+Ouvrifier
 
 #org @NAME_CONKELDURR
-Conkeldurr
+B\etochef
 
 #org @NAME_TYMPOLE
-Tympole
+Tritonde
 
 #org @NAME_PALPITOAD
-Palpitoad
+Batracn\e
 
 #org @NAME_SEISMITOAD
-Seismitoad
+Crapustule
 
 #org @NAME_THROH
-Throh
+Judokrak
 
 #org @NAME_SAWK
-Sawk
+Karacl\ee
 
 #org @NAME_SEWADDLE
-Sewaddle
+Larveyette
 
 #org @NAME_SWADLOON
-Swadloon
+Couverdure
 
 #org @NAME_LEAVANNY
-Leavanny
+Manternel
 
 #org @NAME_VENIPEDE
-Venipede
+Venipatte
 
 #org @NAME_WHIRLIPEDE
-Whirlipede
+Scobolide
 
 #org @NAME_SCOLIPEDE
-Scolipede
+Brutapode
 
 #org @NAME_COTTONEE
-Cottonee
+Doudouvet
 
 #org @NAME_WHIMSICOTT
-Whimsicott
+Farfaduvet
 
 #org @NAME_PETILIL
-Petilil
+Chlorobule
 
 #org @NAME_LILLIGANT
-Lilligant
+Fragilady
 
 #org @NAME_BASCULINR
-Basculin
+Bargantua
 
 #org @NAME_SANDILE
-Sandile
+Masca\uman
 
 #org @NAME_KROKOROK
-Krokorok
+Escroco
 
 #org @NAME_KROOKODILE
-Krookodile
+Crocorible
 
 #org @NAME_DARUMAKA
-Darumaka
+Darumarond
 
 #org @NAME_DARMANITAN
-Darmanitan
+Darumacho
 
 #org @NAME_MARACTUS
-Maractus
+Maracachi
 
 #org @NAME_DWEBBLE
-Dwebble
+Crabicoque
 
 #org @NAME_CRUSTLE
-Crustle
+Crabaraque
 
 #org @NAME_SCRAGGY
-Scraggy
+Baggiguane
 
 #org @NAME_SCRAFTY
-Scrafty
+Bagga\ud
 
 #org @NAME_SIGILYPH
-Sigilyph
+Crypt\ero
 
 #org @NAME_YAMASK
-Yamask
+Tutafeh
 
 #org @NAME_COFAGRIGUS
-Cofagrigus
+Tutankafer
 
 #org @NAME_TIRTOUGA
-Tirtouga
+Carapagos
 
 #org @NAME_CARRACOSTA
-Carracosta
+M\egapagos
 
 #org @NAME_ARCHEN
-Archen
+Ark\eapti
 
 #org @NAME_ARCHEOPS
-Archeops
+A\eropt\eryx
 
 #org @NAME_TRUBBISH
-Trubbish
+Miamiasme
 
 #org @NAME_GARBODOR
-Garbodor
+Miasmax
 
 #org @NAME_ZORUA
 Zorua
@@ -1878,217 +1878,216 @@ Zorua
 Zoroark
 
 #org @NAME_MINCCINO
-Minccino
+Chinchidou
 
 #org @NAME_CINCCINO
-Cinccino
+Pashmilla
 
 #org @NAME_GOTHITA
-Gothita
+Scrutella
 
 #org @NAME_GOTHORITA
-Gothorita
+Mesm\erella
 
 #org @NAME_GOTHITELLE
-Gothitelle
+Sid\erella
 
 #org @NAME_SOLOSIS
-Solosis
+Nucl\eos
 
 #org @NAME_DUOSION
-Duosion
+M\eios
 
 #org @NAME_REUNICLUS
-Reuniclus
+Symbios
 
 #org @NAME_DUCKLETT
-Ducklett
+Couaneton
 
 #org @NAME_SWANNA
-Swanna
+Lakmecygne
 
 #org @NAME_VANILLITE
-Vanillite
+Sorb\eb\e
 
 #org @NAME_VANILLISH
-Vanillish
+Sorboul
 
 #org @NAME_VANILLUXE
-Vanilluxe
+Sorbouboul
 
 #org @NAME_DEERLINGS
-Deerling
+Vivaldaim
 
 #org @NAME_SAWSBUCKS
-Sawsbuck
+Haydaim
 
 #org @NAME_EMOLGA
 Emolga
 
 #org @NAME_KARRABLAST
-Karrablast
+Carabing
 
 #org @NAME_ESCAVALIER
-Escavalier
+Lan\qargot
 
 #org @NAME_FOONGUS
-Foongus
+Trompignon
 
 #org @NAME_AMOONGUSS
-Amoonguss
+Gaulet
 
 #org @NAME_FRILLISH
-Frillish
+Viskuse
 
 #org @NAME_JELLICENT
-Jellicent
+Moyade
 
 #org @NAME_ALOMOMOLA
-Alomomola
-
+Mamanbo
 #org @NAME_JOLTIK
-Joltik
+Statitik
 
 #org @NAME_GALVANTULA
-Galvantula
+Mygavolt
 
 #org @NAME_FERROSEED
-Ferroseed
+Grindur
 
 #org @NAME_FERROTHORN
-Ferrothorn
+Noacier
 
 #org @NAME_KLINK
-Klink
+Tic
 
 #org @NAME_KLANG
-Klang
+Clic
 
 #org @NAME_KLINKLANG
-Klinklang
+Cliticlic
 
 #org @NAME_TYNAMO
-Tynamo
+Anchwatt
 
 #org @NAME_EELEKTRIK
-Eelektrik
+Lamp\eroie
 
 #org @NAME_EELEKTROSS
-Eelektross
+Ohmassacre
 
 #org @NAME_ELGYEM
-Elgyem
+Lewsor
 
 #org @NAME_BEHEEYEM
-Beheeyem
+Neitram
 
 #org @NAME_LITWICK
-Litwick
+Fun\ecire
 
 #org @NAME_LAMPENT
-Lampent
+M\elancolux
 
 #org @NAME_CHANDELURE
-Chandelure
+Lugulabre
 
 #org @NAME_AXEW
-Axew
+Coupenotte
 
 #org @NAME_FRAXURE
-Fraxure
+Insciache
 
 #org @NAME_HAXORUS
-Haxorus
+Tranchodon
 
 #org @NAME_CUBCHOO
-Cubchoo
+Polarhume
 
 #org @NAME_BEARTIC
-Beartic
+Polagriffe
 
 #org @NAME_CRYOGONAL
-Cryogonal
+Hexagel
 
 #org @NAME_SHELMET
-Shelmet
+Escargaume
 
 #org @NAME_ACCELGOR
-Accelgor
+Limaspeed
 
 #org @NAME_STUNFISK
-Stunfisk
+Limonde
 
 #org @NAME_MIENFOO
-Mienfoo
+Kungfouine
 
 #org @NAME_MIENSHAO
-Mienshao
+Shaofouine
 
 #org @NAME_DRUDDIGON
-Druddigon
+Drakkarmin
 
 #org @NAME_GOLETT
-Golett
+Gringolem
 
 #org @NAME_GOLURK
-Golurk
+Golemastoc
 
 #org @NAME_PAWNIARD
-Pawniard
+Scalpion
 
 #org @NAME_BISHARP
-Bisharp
+Scalproie
 
 #org @NAME_BOUFFALANT
-Bouffalant
+Frison
 
 #org @NAME_RUFFLET
-Rufflet
+Furaiglon
 
 #org @NAME_BRAVIARY
-Braviary
+Gueriaigle
 
 #org @NAME_VULLABY
-Vullaby
+Vostourno
 
 #org @NAME_MANDIBUZZ
-Mandibuzz
+Vaututrice
 
 #org @NAME_HEATMOR
-Heatmor
+Aflamanoir
 
 #org @NAME_DURANT
-Durant
+Fermite
 
 #org @NAME_DEINO
-Deino
+Solochi
 
 #org @NAME_ZWEILOUS
-Zweilous
+Diamat
 
 #org @NAME_HYDREIGON
-Hydreigon
+Trioxhydre
 
 #org @NAME_LARVESTA
-Larvesta
+Pyronille
 
 #org @NAME_VOLCARONA
-Volcarona
+Pyrax
 
 #org @NAME_COBALION
-Cobalion
+Cobaltium
 
 #org @NAME_TERRAKION
-Terrakion
+Terrakium
 
 #org @NAME_VIRIZION
-Virizion
+Viridium
 
 #org @NAME_TORNADUS
-Tornadus
+Bor\eas
 
 #org @NAME_THUNDURUS
-Thundurus
+Fulguris
 
 #org @NAME_RESHIRAM
 Reshiram
@@ -2097,7 +2096,7 @@ Reshiram
 Zekrom
 
 #org @NAME_LANDORUS
-Landorus
+D\em\et\eros
 
 #org @NAME_KYUREM
 Kyurem
@@ -2106,61 +2105,61 @@ Kyurem
 Keldeo
 
 #org @NAME_MELOETTA
-Meloetta
+Mel\itta
 
 #org @NAME_GENESECT
 Genesect
 
 #org @NAME_UNFEZANT_F
-Unfezant
+D\eflaisan
 
 #org @NAME_FRILLISH_F
-Frillish
+Viskuse
 
 #org @NAME_JELLICENTF
-Jellicent
+Moyade
 
 #org @NAME_SHADOW_WARRIOR
 Warrior
 
 #org @NAME_BURMYS
-Burmy
+Cheniti
 
 #org @NAME_BURMYT
-Burmy
+Cheniti
 
 #org @NAME_WORMADAM_S
-Wormadam
+Cheniselle
 
 #org @NAME_WORMADAM_T
-Wormadam
+Cheniselle
 
 #org @NAME_SHELLOSE
-Shellos
+Sancoki
 
 #org @NAME_GASTRODONE
-Gastrodon
+Tritosor
 
 #org @NAME_ROTOMHEAT
-Rotom
+Motisma-F
 
 #org @NAME_ROTOMWASH
-Rotom
+Motisma-L
 
 #org @NAME_ROTOMFROS
-Rotom
+Motisma-C
 
 #org @NAME_ROTOMFAN
-Rotom
+Motisma-V
 
 #org @NAME_ROTOMMOW
-Rotom
+Motisma-T
 
 #org @NAME_GIRATINAO
-Giratina
+Giratina-O
 
 #org @NAME_SHAYMINS
-Shaymin
+Shaymin-S
 
 #org @NAME_ARCEUSFIT
 Arceus
@@ -2214,34 +2213,34 @@ Arceus
 Basculin
 
 #org @NAME_ZENITAN
-Darmanitan
+Darumacho
 
 #org @NAME_DEERLINGM
-Deerling
+Vivaldaim
 
 #org @NAME_DEERLINGF
-Deerling
+Vivaldaim
 
 #org @NAME_DEERLINGW
-Deerling
+Vivaldaim
 
 #org @NAME_SAWSBUCKM
-Sawsbuck
+Haydaim
 
 #org @NAME_SAWSBUCKF
-Sawsbuck
+Haydaim
 
 #org @NAME_SAWSBUCKW
-Sawsbuck
+Haydaim
 
 #org @NAME_HIPPOPOTAF
 Hippopotas
 
 #org @NAME_HIPPOWDONF
-Hippowdon
+Hippodocus
 
 #org @NAME_MELOETTAP
-Meloetta
+Mel\itta
 
 #org @NAME_GENESECTE
 Genesect
@@ -2256,22 +2255,22 @@ Genesect
 Genesect
 
 #org @NAME_CHERRIMS
-Cherrim
+Ceribou
 
 #org @NAME_KYUREMB
-Kyurem
+Kyurem-N
 
 #org @NAME_KYUREMW
-Kyurem
+Kyurem-B
 
 #org @NAME_TORNADUST
-Tornadus
+Bor\eas-T
 
 #org @NAME_THUNDURUST
-Thundurus
+Fulguris-T
 
 #org @NAME_LANDORUST
-Landorus
+D\em\et\erosT
 
 #org @NAME_KELDEOR
 Keldeo
@@ -2334,10 +2333,10 @@ Litleo
 Pyroar
 
 #org @NAME_FLABEBE_R
-Flab\eb\e
+Flab\rb\r
 
 #org @NAME_FLOETTE_R
-Floette
+Fl\itte
 
 #org @NAME_FLORGES_R
 Florges
@@ -2523,31 +2522,31 @@ Zygarde
 Greninja
 
 #org @NAME_FLABEBE_B
-Flab\eb\e
+Flab\rb\r
 
 #org @NAME_FLABEBE_O
-Flab\eb\e
+Flab\rb\r
 
 #org @NAME_FLABEBE_Y
-Flab\eb\e
+Flab\rb\r
 
 #org @NAME_FLABEBE_W
-Flab\eb\e
+Flab\rb\r
 
 #org @NAME_FLOETTE_B
-Floette
+Fl\itte
 
 #org @NAME_FLOETTE_O
-Floette
+Fl\itte
 
 #org @NAME_FLOETTE_Y
-Floette
+Fl\itte
 
 #org @NAME_FLOETTE_W
-Floette
+Fl\itte
 
 #org @NAME_FLOETTE_AZ
-Floette
+Fl\itte
 
 #org @NAME_FLORGES_B
 Florges
@@ -3024,7 +3023,7 @@ Tapu Fini
 Cosmog
 
 #org @NAME_COSMOEM
-Cosmoem
+Cosm\im
 
 #org @NAME_SOLGALEO
 Solgaleo
