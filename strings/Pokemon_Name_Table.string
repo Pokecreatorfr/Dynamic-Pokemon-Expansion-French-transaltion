@@ -15,7 +15,7 @@ Herbizarre
 Florizarre
 
 #org @NAME_CHARMANDER
-Salamèche
+Salam\rche
 
 #org @NAME_CHARMELEON
 Reptincel
@@ -186,7 +186,7 @@ Arcanin
 Ptitard
 
 #org @NAME_POLIWHIRL
-Têtarte
+T\ttarte
 
 #org @NAME_POLIWRATH
 Tartard
@@ -339,7 +339,7 @@ Smogogo
 Rhinocorne
 
 #org @NAME_RHYDON
-Rhinoféros
+Rhinof\eros
 
 #org @NAME_CHANSEY
 Leveinard
@@ -357,7 +357,7 @@ Hypotrempe
 Hypoc\ean
 
 #org @NAME_GOLDEEN
-Poissirène
+Poissir\rne
 
 #org @NAME_SEAKING
 Poissoroy
@@ -372,7 +372,7 @@ Staross
 M. Mime
 
 #org @NAME_SCYTHER
-Insécateur
+Ins\ecateur
 
 #org @NAME_JYNX
 Lippoutou
@@ -597,19 +597,19 @@ Mentali
 Noctali
 
 #org @NAME_MURKROW
-Cornèbre
+Corn\rbre
 
 #org @NAME_SLOWKING
 Roigada
 
 #org @NAME_MISDREAVUS
-Feuforêve
+Feufor\tve
 
 #org @NAME_UNOWN
 Zarbi
 
 #org @NAME_WOBBUFFET
-Qulbutoké
+Qulbutok\e
 
 #org @NAME_GIRAFARIG
 Girafarig
@@ -861,16 +861,16 @@ Flobio
 Laggron
 
 #org @NAME_POOCHYENA
-Medhyèna
+Medhy\rna
 
 #org @NAME_MIGHTYENA
-Grahyèna
+Grahy\rna
 
 #org @NAME_ZIGZAGOON
 Zigzton
 
 #org @NAME_LINOONE
-Linéon
+Lin\eon
 #org @NAME_WURMPLE
 Chenipotte
 
@@ -989,7 +989,7 @@ Colhomard
 Barpau
 
 #org @NAME_MILOTIC
-Millobellus
+Milobellus
 
 #org @NAME_CARVANHA
 Carvanha
@@ -1099,7 +1099,7 @@ Parecool
 Vigoroth
 
 #org @NAME_SLAKING
-Monaflèmit
+Monafl\rmit
 
 #org @NAME_GULPIN
 Gloupti
@@ -1156,7 +1156,7 @@ Galegon
 Galeking
 
 #org @NAME_CASTFORM
-Morphéo
+Morph\eo
 
 #org @NAME_VOLBEAT
 Muciole
@@ -1446,7 +1446,7 @@ Laporeille
 Lockpin
 
 #org @NAME_MISMAGIUS
-Magirêve
+Magir\tve
 
 #org @NAME_HONCHKROW
 Corboss
@@ -1473,7 +1473,7 @@ Arch\eomire
 Arch\eodong
 
 #org @NAME_BONSLY
-Manzaï
+Manza\i
 
 #org @NAME_MIME_JR
 Mime Jr.
@@ -1752,7 +1752,7 @@ Rototaupe
 Minotaupe
 
 #org @NAME_AUDINO
-Nanm\eouïe
+Nanm\eou\ie
 
 #org @NAME_TIMBURR
 Charpenti
@@ -1776,7 +1776,7 @@ Crapustule
 Judokrak
 
 #org @NAME_SAWK
-Karaclée
+Karacl\ee
 
 #org @NAME_SEWADDLE
 Larveyette
@@ -1812,7 +1812,7 @@ Fragilady
 Bargantua
 
 #org @NAME_SANDILE
-Mascaïman
+Masca\iman
 
 #org @NAME_KROKOROK
 Escroco
@@ -1839,10 +1839,10 @@ Crabaraque
 Baggiguane
 
 #org @NAME_SCRAFTY
-Baggaïd
+Bagga\id
 
 #org @NAME_SIGILYPH
-Cryptéro
+Crypt\ero
 
 #org @NAME_YAMASK
 Tutafeh
@@ -1926,7 +1926,7 @@ Emolga
 Carabing
 
 #org @NAME_ESCAVALIER
-Lançargot
+Lan\cargot
 
 #org @NAME_FOONGUS
 Trompignon
@@ -2293,7 +2293,7 @@ Goupelin
 #org @NAME_FROAKIE
 Grenousse
 #org @NAME_FROGADIER
-Croâporal
+Cro\oporal
 
 #org @NAME_GRENINJA
 Amphinobi
@@ -2302,7 +2302,7 @@ Amphinobi
 Sapereau
 
 #org @NAME_DIGGERSBY
-Excavarenne
+Excavarene
 
 #org @NAME_FLETCHLING
 Passerouge
@@ -2314,7 +2314,7 @@ Braisillon
 Flambusard
 
 #org @NAME_SCATTERBUG
-L\epidonille
+L\epidonile
 
 #org @NAME_SPEWPA
 P\er\egrain
@@ -2338,13 +2338,13 @@ Floette
 Florges
 
 #org @NAME_SKIDDO
-Cabriolaine
+Cabriolain
 
 #org @NAME_GOGOAT
 Chevroum
 
 #org @NAME_PANCHAM
-Pandespègl
+Pandesp\rgl
 
 #org @NAME_PANGORO
 Pandarbare
@@ -2362,7 +2362,7 @@ Mistigrix
 Monorpale
 
 #org @NAME_DOUBLADE
-Dimoclès
+Dimocl\rs
 
 #org @NAME_AEGISLASH
 Exagide
@@ -2446,7 +2446,7 @@ Muplodocus
 Trousselin
 
 #org @NAME_PHANTUMP
-Broc\elôme
+Broc\el\mme
 
 #org @NAME_TREVENANT
 Dess\eliade
@@ -2458,7 +2458,7 @@ Pitrouille
 Banshitrye
 
 #org @NAME_BERGMITE
-Grelaçon
+Grela\con
 
 #org @NAME_AVALUGG
 S\eracrawl
@@ -2749,7 +2749,7 @@ Blizzaroi
 Gallame
 
 #org @NAME_MAUDINO
-Nanm\eouïe
+Nanm\eou\ie
 
 #org @NAME_MDIANCIE
 Diancie
@@ -2818,7 +2818,7 @@ Prismillon
 Brindibou
 
 #org @NAME_DARTRIX
-Efflèche
+Effl\rche
 
 #org @NAME_DECIDUEYE
 Arch\educ
@@ -2953,7 +2953,7 @@ Quatermac
 Sovkipou
 
 #org @NAME_GOLISOPOD
-Sarmuraï
+Sarmura\i
 
 #org @NAME_SANDYGAST
 Bacabouh
@@ -2986,10 +2986,10 @@ Togedemaru
 Mimiqui
 
 #org @NAME_BRUXISH
-Denticrisse
+Denticriss
 
 #org @NAME_DRAMPA
-Draïeul
+Dra\ieul
 
 #org @NAME_DHELMISE
 Sinistrail
@@ -2998,10 +2998,10 @@ Sinistrail
 B\eb\ecaille
 
 #org @NAME_HAKAMOO
-\Ecaïd
+\Eca\id
 
 #org @NAME_KOMMOO
-\Ekaïser
+\Eka\iser
 
 #org @NAME_TAPU_KOKO
 Tokorico
@@ -3028,7 +3028,7 @@ Solgaleo
 Lunala
 
 #org @NAME_NIHILEGO
-Zeroïd
+Zero\id
 
 #org @NAME_BUZZWOLE
 Mouscoto
@@ -3037,7 +3037,7 @@ Mouscoto
 Cancrelove
 
 #org @NAME_XURKITREE
-Câblifère
+C\oblif\rre
 
 #org @NAME_CELESTEELA
 Bamboisele
@@ -3046,7 +3046,7 @@ Bamboisele
 Katagami
 
 #org @NAME_GUZZLORD
-Engloutyran
+Englotyran
 
 #org @NAME_NECROZMA
 Necrozma
@@ -3142,55 +3142,55 @@ Lougaroc
 Frousardin
 
 #org @NAME_SILVALLYFI
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYFL
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYPS
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYGR
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYRO
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYBU
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYGS
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYST
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYFR
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYWA
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYGA
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYEL
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYPY
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYIC
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYDR
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYDA
-Silvallié
+Silvalli\e
 
 #org @NAME_SILVALLYFA
-Silvallié
+Silvalli\e
 
 #org @NAME_MINIORRED
 M\et\eno
@@ -3229,7 +3229,7 @@ Mandrillon
 Ama-Ama
 
 #org @NAME_BLACPHALON
-Pierroteknik
+Piroteknik
 
 #org @NAME_ZERAORA
 Zeraora
@@ -3349,7 +3349,7 @@ Corvallius
 Larvadar
 
 #org @NAME_DOTTLER
-Col\eodôme
+Col\eod\mme
 
 #org @NAME_ORBEETLE
 Astronelle
@@ -3466,7 +3466,7 @@ Ixon
 Berserkatt
 
 #org @NAME_CURSOLA
-Corayôme
+Coray\mme
 
 #org @NAME_SIRFETCHD
 Palarticho
@@ -3478,7 +3478,7 @@ M.Glaquete
 Tut\et\ekri
 
 #org @NAME_MILCERY
-Crèmy
+Cr\rmy
 
 #org @NAME_ALCREMIE_STRAWBERRY
 Charmilly
@@ -3499,7 +3499,7 @@ Beldeneige
 Dolman
 
 #org @NAME_EISCUE
-Bekaglaçon
+Bekagla\con
 
 #org @NAME_INDEEDEE
 Wimessir
@@ -3601,7 +3601,7 @@ Charmilly
 Charmilly
 
 #org @NAME_EISCUE_NOICE
-Bekaglaçon
+Bekagla\con
 
 #org @NAME_INDEEDEE_FEMALE
 Wimessir
