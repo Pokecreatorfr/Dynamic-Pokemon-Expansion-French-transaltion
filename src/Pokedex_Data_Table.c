@@ -461,7 +461,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerOffset = 65534,
 	},
 	[NATIONAL_DEX_NINETALES] =
-	{		
+	{
 		.categoryName = {_R, _e, _n, _a, _r, _d, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 11,
 		.weight = 199,
@@ -509,7 +509,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerOffset = 65534,
 	},
 	[NATIONAL_DEX_GOLBAT] =
-	{		
+	{
 		.categoryName = {_C, _h, _a, _u, _v, _e, _S, _o, _u, _r, _i, _END},
 		.height = 16,
 		.weight = 550,
@@ -6992,7 +6992,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 	{
 		.categoryName = {_P, _o, _u, _d, _r, _e, _u, _s, _e, _END, _SPACE, _SPACE},
 		.height = 4,
-		.weight = 1720,
+		.weight = 57,
 		.description = DEX_ENTRY_VANILLITE,
 		.unusedDescription = (const u8*) 0x8444cb1,
 		.pokemonScale = 256,
@@ -10855,5 +10855,5 @@ const struct AlternateDexEntries gAlternateDexEntries[] =
 	ALTERNATE_ENTRY(ZAMAZENTA_CROWNED),
 	ALTERNATE_ENTRY(ETERNATUS_ETERNAMAX),
 	ALTERNATE_ENTRY(URSHIFU_RAPID),
-	{SPECIES_TABLES_TERMIN, 0} 
+	{SPECIES_TABLES_TERMIN, 0}
 };
