@@ -9198,7 +9198,11 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 	},
 	[NATIONAL_DEX_PASSIMIAN] =
 	{
+<<<<<<< HEAD
 		.categoryName = {_C, _o, _o, _p, _e, _r, _a, _t, _i, _o, _n, _END},
+=======
+		.categoryName = {_T, _e, _a, _m, _w, _o, _r, _k, _END, _SPACE, _SPACE, _SPACE},
+>>>>>>> upstream/master
 		.height = 20,
 		.weight = 828,
 		.description = DEX_ENTRY_PASSIMIAN,
