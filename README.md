@@ -12,7 +12,7 @@ A dynamic data insertion tool for expanding Pokemon data in FireRed.
 * Support for FRLG habitats.
 * Support for Pokemon sprite and icon insertion.
 * Support for cry insertion.
-* Support for up to 128 TM/HM's and 128 Move Tutors
+* Support for up to 128 TM/HM's and 128 Move Tutors 
 
 **NOTE** It is highly recommended to apply the [Complete Fire Red Upgrade](https://github.com/Skeli789/Complete-Fire-Red-Upgrade) following the insertion of this hack. Otherwise, make sure to comment out the  line ``#define EXPAND_LEARNSETS`` in the defines file or your game will crash (unless you have expanded movesets manually).  Additionally, if you're **not** using the Complete Fire Red Upgrade, in [bytereplacement](https://github.com/Skeli789/Dynamic-Pokemon-Expansion/blob/master/bytereplacement), find the changes for the seen  and caught flag ram, and change it to some free  save space. Make sure to apply a saveblock hack first and a TM/Tutor expansion first, though.
 
@@ -69,4 +69,4 @@ When looking in the ``src`` directory, you will notice two subdirectories, ``tm_
 When using this expansion, you may wish to keep using the sprites already inserted in your rom. If so you will need to extract the original graphics data pointers from your rom. To do this, overwrite the ``BRPE0.gba`` file in the root with this rom that has the graphics data (always make a backup first!). Then, open [scripts/data_extractor.py](https://github.com/Skeli789/Dynamic-Pokemon-Expansion/blob/master/scripts/data_extractor.py) and change the line ``NumberOfPokemon`` to the number of species graphics data you wish to extract from your rom + 1. Go back to the root, open the command line, and type ``python scripts//data_extractor.py``. Extracted graphics data will be pulled from your rom and placed in a new folder ``extracted``. Copy the contents of the **tables** found in these files and overwrite the **tables** found in the equivalent files found in [src](https://github.com/Skeli789/Dynamic-Pokemon-Expansion/tree/master/src). Once the extraction is complete, make sure to either add ``(void*)`` to the beginning of each pointer in these extracted files, or open ``include/graphics.h`` and replace any relevant instances of ``const u8*`` with ``u32``. This will allow the files to compile warning free. Now, the next time you insert this hack, all of your graphics pointers will remain unchanged, allowing you to make changes to things such as the Pokedex data and level-up movesets without worrying about repointing anything.
 
 ## Traduction francaise
-Traduction Francaise par: 𝕬𝖗𝖑𝖊𝖖𝖚𝖎𝖎𝖓, CynoxxKh, Confidant718666 et moi meme ( Pokécreatorfr )
+Traduction Francaise par: Arlequiin, CynoxxKh, Confidant et moi-même ( Pokécreatorfr )
